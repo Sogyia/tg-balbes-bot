@@ -1,0 +1,5 @@
+telebot
+google-generativeai
+requests
+flask
+pytelegrambotapi
